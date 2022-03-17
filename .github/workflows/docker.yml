@@ -29,4 +29,4 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       -
         name: Push Docker Image
-        run: docker push --all-tags
+        run: docker push --all-tags ctsc/fckptn_bot
