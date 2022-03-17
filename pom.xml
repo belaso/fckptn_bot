@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>trutz.social</groupId>
 	<artifactId>fckptn_bot</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>fckptn_bot</name>
 	<description>Fuck Putin Telegram Bot</description>
 	<properties>
