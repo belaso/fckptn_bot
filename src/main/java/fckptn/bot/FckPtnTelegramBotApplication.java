@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FckPtnBotApplication {
+public class FckPtnTelegramBotApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FckPtnBotApplication.class, args);
+		SpringApplication.run(FckPtnTelegramBotApplication.class, args);
 	}
 
 }
